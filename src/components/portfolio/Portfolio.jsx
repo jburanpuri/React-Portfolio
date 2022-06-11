@@ -10,20 +10,30 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Western Scheduler',
+    title: 'Sonu Lifts - In Progress',
     github: 'https://github.com',
+    website: 'sonulifts.com',
+    problem: 'Personalized gym plans are very expensive. Such plans can cost over $100 making them very unafforable for many people',
+    solution: 'Sonu Lifts sells premade workout plans which will work for most people at $10 and completely personalized plans for $20. It allows people to save 100s of dollars while getting same or better quality plans.',
+    technology: 'React, Nextjs, CSS, Stripe, Hostinger, Sanity.io'
   },
   {
     id: 2,
     image: IMG2,
     title: 'FitSync',
     github: 'https://github.com',
+    problem: 'Beginners have a very hard time starting off at the gym because they do not know what to do. Personal trainers are very expensive and learning proper execution of exercises takes a lot of practice. It makes working out super difficult. ',
+    solution: 'FitSync solves this major issue by connecting users to trainers. Trainers can create workout plans for users while working remotely and users have the flexibity to workout at anytime. FitSync also has a large database of exercises with animations, tips and tricks giving users an easier time at the gym. FitSync also tracks workouts which makes progressive overloading easier.',
+    technology: 'MongoDB, Expressjs, React, Nodejs, CSS, Socket.io, JIRA (SCRUM Methodology)'
   },
   {
     id: 3,
     image: IMG3,
     title: 'True North Protective Coatings',
     github: 'https://github.com',
+    problem: 'Freelancing Project - TNPC wanted a website for their business which looked clean and met all their technical requirements',
+    solution: 'Developed a website using HTML & CSS consisting of all the information they wanted',
+    technology: 'HTML, CSS'
   }
 ]
 
@@ -36,7 +46,7 @@ const Portfolio = () => {
 
       <div className="container portfolio__container">
         {
-          data.map(({ id, image, title, github }) => {
+          data.map(({ id, image, title, github, problem, solution, technology }) => {
             return (
               <article key={id} className='portfolio__item'>
                 <div className="portfolio__item-image">
@@ -47,7 +57,15 @@ const Portfolio = () => {
                   <div className="portfolio__item-cta">
                     <a href={github} className='btn' target='_blank'>Github</a>
                   </div>
+                  <h4>
+                    <b>Problem: </b> <small>{problem}</small>
+                    <br></br>
+                    <b>Solution: </b> <small>{solution}</small>
+                    <br></br>
+                    <b>Stack: </b><small>{technology}</small>
+                  </h4>
                 </center>
+
               </article>
             )
           })

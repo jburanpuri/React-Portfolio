@@ -27,8 +27,8 @@ const About = () => {
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
-              <h3>Agile</h3>
-              <small>Experienced in Using SCRUM Methodology for Sprints</small>
+              <h3>Teamwork Driven</h3>
+              <small>Experienced in Using Agile (SCRUM) Methodology for Sprints</small>
             </article>
 
             <article className='about__card'>
@@ -47,7 +47,7 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h3>Experience</h3>
-              <small>Experienced in Working in Fast Paced Teams</small>
+              <small>Comfortable in Working in Fast Paced Teams</small>
             </article>
           </div>
 
