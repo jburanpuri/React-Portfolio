@@ -12,7 +12,12 @@ header {
 
 .typer {
   font-size: 30px;
-  color: rgb(90, 66, 0)
+  background: -webkit-linear-gradient(left, red, yellow);
+  background: -o-linear-gradient(right, red, yellow);
+  background: -moz-linear-gradient(right, red, yellow);
+  background: linear-gradient(to right, red, yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 
