@@ -13,7 +13,7 @@ header {
 }
 
 .typer {
-  font-size: 30px;
+  font-size: 40px;
   background-color: #21d190;
   background-image: linear-gradient(315deg, #21d190 0%, #d65bca 74%);
   -webkit-background-clip: text;
