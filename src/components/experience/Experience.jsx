@@ -26,7 +26,7 @@ const data = [{
 ]
 
 const experiences = () => {
-    return (<section id='experiences' > <h5>Places I Have Worked</h5> <h2>Work experiences</h2> <div className="container experiences__container" > {
+    return (<section id='experiences' > <h2>My Work Experience</h2> <div className="container experiences__container" > {
         data.map(({
             id, title, description, achievements
 

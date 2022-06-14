@@ -13,12 +13,17 @@ import 'swiper/css/pagination';
 
 const data = [
   {
-    name: 'Arjun Mahadeva, Manager',
+    name: 'Arjun Mahadeva, Kinectrics - IT Manager',
     review: 'You were an exceptional co-op student. I have no doubt that you will excel at all your future endeavours. you were like a sponge and absorbed all the information thrown at you. You are an incredibly quick learner, and we appreciate your initiative to learn new skills as well as help improve on our processes. You were also a great team player, communicated well with end-users, and were a delight to work with. Best of luck with school and everything else!'
   },
   {
-    name: 'Cody Hardy, Supervisor',
+    name: 'Cody Hardy, Kinectrics - IT Supervisor',
     review: 'You did a great job here and picked up information like a sponge.I look forward to seeing where your career takes you!'
+  },
+
+  {
+    name: 'Mack, TNPC - Founder',
+    review: 'Needed a website made and Janmejay created it very quickly. Made it elegant and met the requirements perfectly. Great and friendly person to work with. Look forward to doing business with him again.',
   }
 ]
 
@@ -26,8 +31,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Testimonials</h5>
-      <h2>From Past Employers and Supervisors</h2>
+      <h2>Thoughts From Previous Employers</h2>
 
       <Swiper className="container testimonials__container"
         // install Swiper modules

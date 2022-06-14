@@ -21,7 +21,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'FitSync',
-    github: 'https://github.com',
+    github: 'https://github.com/jburanpuri/FitSync',
     problem: 'Beginners have a very hard time starting off at the gym because they do not know what to do. Personal trainers are very expensive and learning proper execution of exercises takes a lot of practice. It makes working out super difficult. ',
     solution: 'FitSync solves this major issue by connecting users to trainers. Trainers can create workout plans for users while working remotely and users have the flexibity to workout at anytime. FitSync also has a large database of exercises with animations, tips and tricks giving users an easier time at the gym. FitSync also tracks workouts which makes progressive overloading easier.',
     technology: 'MongoDB, Expressjs, React, Nodejs, CSS, Socket.io, JIRA (SCRUM Methodology)'
@@ -41,8 +41,8 @@ const data = [
 const Portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h2>My Best Projects</h2>
+      <center><a href="https://github.com/jburanpuri" className='btn1' target='_blank'>All Projects</a></center>
 
       <div className="container portfolio__container">
         {

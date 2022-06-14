@@ -2,20 +2,20 @@ header {
   height: 60vh;
   padding-top: 7rem;
   overflow: hidden;
+  margin-bottom: 0%;
 }
 
 .header__container {
   text-align: center;
   height: 100%;
   position: relative;
+  margin-bottom: 0%;
 }
 
 .typer {
   font-size: 30px;
-  background: -webkit-linear-gradient(left, red, yellow);
-  background: -o-linear-gradient(right, red, yellow);
-  background: -moz-linear-gradient(right, red, yellow);
-  background: linear-gradient(to right, red, yellow);
+  background-color: #21d190;
+  background-image: linear-gradient(315deg, #21d190 0%, #d65bca 74%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
