@@ -5,7 +5,7 @@
 }
 
 .experience__container>div {
-  background: var(--color-bg-variant);
+  background: #F0E1B9FF;
   padding: 2.4rem 5rem;
   border-radius: 2rem;
   border: 1px solid transparent;
@@ -16,7 +16,7 @@
 .experience__container>div h3 {
   text-align: center;
   margin-bottom: 2rem;
-  color: #ffffff;
+  color: black;
 }
 
 .experience__content {

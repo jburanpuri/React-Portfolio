@@ -5,7 +5,7 @@
 }
 
 .experiences__item {
-    background: var(--color-bg-variant);
+    background: #F0E1B9FF;
     padding: 1.2rem;
     border-radius: 2rem;
     border: 1px solid transparent;
@@ -18,7 +18,7 @@
 }
 
 .experiences__item h3 {
-    margin: 1.2rem 0 2rem;
+    margin: 1.2rem 0 0.5rem;
 }
 
 .experiences__item-cta {

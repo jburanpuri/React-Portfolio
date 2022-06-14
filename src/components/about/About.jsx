@@ -22,38 +22,38 @@ const About = () => {
             <article className='about__card'>
               <FiClipboard className='about__icon' />
               <h3>Technical Skills</h3>
-              <small>Experienced in Handful Languages, Libraries & Frameworks</small>
+              <small>Experienced in handful languages, libraries & frameworks</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon' />
               <h3>Teamwork Driven</h3>
-              <small>Experienced in Using Agile (SCRUM) Methodology for Sprints</small>
+              <small>Experienced in using agile (SCRUM) methodology for sprints</small>
             </article>
 
             <article className='about__card'>
               <FiGithub className='about__icon' />
               <h3>Projects</h3>
-              <small>Extensive List of Unique Projects on GitHub</small>
+              <small>Extensive list of unique projects on GitHub</small>
             </article>
 
             <article className='about__card'>
               <FiBarChart className='about__icon' />
               <h3>Optimization</h3>
-              <small>Ability in Optimizing Algorithms for Time & Space Complexity</small>
+              <small>Ability in optimizing algorithms for time & space Complexity</small>
             </article>
 
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon' />
               <h3>Experience</h3>
-              <small>Comfortable in Working in Fast Paced Teams</small>
+              <small>Comfortable in working in fast paced teams</small>
             </article>
           </div>
 
           <center> <p>
             Junior software engineer with a passion for developing innovative and useful solutions.
-            A strong passion for designing, developing, testing and debugging code.
+            A strong passion for designing, developing, and testing code.
             I am always on the lookout for new software opportunies so please don't hesitate to contact me!
           </p></center>
 
