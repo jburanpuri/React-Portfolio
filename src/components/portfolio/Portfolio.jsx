@@ -11,7 +11,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: 'Sonu Lifts - In Progress',
-    github: 'https://github.com',
+    github: 'https://github.com/jburanpuri/SonuLifts',
     website: 'sonulifts.com',
     problem: 'Personalized gym plans are very expensive. Such plans can cost over $100 making them very unafforable for many people',
     solution: 'Sonu Lifts sells premade workout plans which will work for most people at $10 and completely personalized plans for $20. It allows people to save 100s of dollars while getting same or better quality plans.',
@@ -30,7 +30,7 @@ const data = [
     id: 3,
     image: IMG3,
     title: 'True North Protective Coatings',
-    github: 'https://github.com',
+    github: 'https://github.com/jburanpuri/TNPC-Final',
     problem: 'Freelancing Project - TNPC wanted a website for their business which looked clean and met all their technical requirements',
     solution: 'Developed a website using HTML & CSS consisting of all the information they wanted',
     technology: 'HTML, CSS'
