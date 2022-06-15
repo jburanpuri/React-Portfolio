@@ -11,7 +11,7 @@
 }
 
 :root {
-  --color-bg: #FDF5DF;
+  --color-bg: #ffffff;
   --color-bg-variant: #000000ac;
   --color-primary: #000000;
   --color-primary-variant: rgba(77, 181, 255, 0.4);
@@ -111,7 +111,7 @@ a:hover {
 }
 
 .btn-primary {
-  background: #A3C2ED;
+  background: #e0e3ff;
   color: #000000;
 }
 
