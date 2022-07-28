@@ -53,7 +53,7 @@ const About = () => {
           <center> <p>
             Junior software engineer with a passion for developing innovative and useful solutions.
             A strong passion for designing, developing, and testing code.
-            I am always on the lookout for new software opportunies so please don't hesitate to contact me!
+            I am always on the lookout for new software opportunities so please don't hesitate to contact me!
           </p></center>
 
           <center><a href="#contact" className='btn btn-primary'>Contact Me</a></center>
