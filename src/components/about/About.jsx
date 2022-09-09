@@ -52,7 +52,7 @@ const About = () => {
 
           <center> <p>
             Junior software engineer with a passion for developing innovative and useful solutions.
-            I have strong passion for designing, developing, and testing code. Growing interest in machine learning, AI, and optimizing algorithms and data structures to reduce both space and time complexities.
+            I have strong a passion for designing, developing, and testing code. Growing interest in machine learning, AI, and optimizing algorithms and data structures to reduce both space and time complexities.
             I am always on the lookout for new software opportunities so please don't hesitate to contact me!
           </p></center>
 
