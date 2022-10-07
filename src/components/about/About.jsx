@@ -51,9 +51,11 @@ const About = () => {
           </div>
 
           <center> <p>
-            Junior software engineer with a passion for developing innovative and useful solutions.
-            I have strong a passion for designing, developing, and testing code. Growing interest in machine learning, AI, and optimizing algorithms and data structures to reduce both space and time complexities.
-            I am always on the lookout for new software opportunities so please don't hesitate to contact me!
+            Hi, I am Janmejay Buranpuri. I am a junior software engineer who is passionate about making a difference in the world. I am very interested in working on projects which can improve peoples quality of life. That is why I worked on projects such as FitSync, Sonu Lifts, and created ML models to identify phishing sites.
+
+            I believe in lifelong learning learning and evolving to become a better engineer and a better person. I am constantly increasing my technical knowledge, my meditation skills, my fitness, and my interpersonal skills!
+
+            Teamwork and communication are some of the important skills I possess. My past experiences show I was able to go above and beyond the requirements and achieve great results. Everyone I have worked with has written and said great things about me. I am still friends with my supervisors and managers today!
           </p></center>
 
           <center><a href="#contact" className='btn btn-primary'>Contact Me</a></center>
