@@ -6,7 +6,7 @@ const data = [{
     id: 1,
     title: 'Kinectrics Co-op',
     description: 'Enhance cyber security by identifying and containing phishing emails with malicious intent used to get sensitive company data',
-    achievements: 'Set a record for the most amount of problems solved by any co-op student in 4 months. Started working on harder cyber-security problems'
+    achievements: 'Achieved 100% accuracy for phishing email threats and solved over 400 tickets'
 }
 
     ,
