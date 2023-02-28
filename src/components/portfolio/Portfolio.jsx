@@ -10,8 +10,8 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Intelligent Lifting - In Progress',
-    github: 'https://github.com/jburanpuri/IntelligentLifting',
+    title: 'Intelligent Lifting',
+    github: 'https://intelligentlifting.net',
     problem: 'Personalized gym plans are very expensive. Such plans can cost over $100 making them very unafforable for many people',
     solution: 'Providing free workout plans which adapt to the individuals recovery, allowing for optinmal training and recovery. Planning to grow by 30% every year by adding new products.',
     technology: 'Next, React, TailwindCSS, AWS Amplify'
